@@ -1,0 +1,15 @@
+streamlit
+numpy
+matplotlib
+scikit-learn
+faiss-cpu
+sentence-transformers
+transformers
+torch
+pillow
+pytesseract
+python-dotenv
+openai
+nltk
+rouge
+PyMuPDF
