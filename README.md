@@ -254,7 +254,7 @@ Main Streamlit interface for RAG system.
 Example image query result showing retrieved chunks and LLM-generated answer.
 <img width="737" height="372" alt="image" src="https://github.com/user-attachments/assets/ed46cf7c-24b3-45a8-8923-62bf6ac3d228" />
 
-Text query retrieval example showing ranked chunks and LLM answer.
+Text query retrieval example showing ranked chunks and LLM answer. Evaluation metrics output from Streamlit interface
 <img width="1230" height="606" alt="image" src="https://github.com/user-attachments/assets/954bcbb8-2296-479d-bfa3-1c2b8907d589" />
 
 Image query interface.
