@@ -248,3 +248,15 @@ streamlit run app.py
 ---
 ## Results
 
+Main Streamlit interface for RAG system.
+<img width="1205" height="430" alt="image" src="https://github.com/user-attachments/assets/ee7a4870-1069-4240-8b74-043060bdc458" />
+
+Example image query result showing retrieved chunks and LLM-generated answer.
+<img width="737" height="372" alt="image" src="https://github.com/user-attachments/assets/ed46cf7c-24b3-45a8-8923-62bf6ac3d228" />
+
+Text query retrieval example showing ranked chunks and LLM answer.
+<img width="1230" height="606" alt="image" src="https://github.com/user-attachments/assets/954bcbb8-2296-479d-bfa3-1c2b8907d589" />
+
+Image query interface.
+<img width="733" height="370" alt="image" src="https://github.com/user-attachments/assets/1e6ba04c-1407-4e57-8cf9-a776dcbac881" />
+
